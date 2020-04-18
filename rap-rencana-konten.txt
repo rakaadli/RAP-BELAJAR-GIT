@@ -5,3 +5,5 @@ Rencana konten
   - Building API
 -Vue
 -Javascript
+  - ES6
+  - Framework Javascript
