@@ -2,4 +2,6 @@ Rencana konten
 
 -React
 -Laravel
+  - Building API
 -Vue
+-Javascript
